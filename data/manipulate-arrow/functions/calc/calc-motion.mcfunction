@@ -4,7 +4,7 @@ execute store result score @s ArrowPosY run data get entity @s Pos[1] 1000
 execute store result score @s ArrowPosZ run data get entity @s Pos[2] 1000
 
 #tp
-execute at @s run function manipulate-arrow:tp
+execute at @s run function manipulate-arrow:tp/tp
 
 execute store result score @s ArrowPosX2 run data get entity @s Pos[0] 1000
 execute store result score @s ArrowPosY2 run data get entity @s Pos[1] 1000

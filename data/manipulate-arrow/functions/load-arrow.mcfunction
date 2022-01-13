@@ -4,7 +4,7 @@ execute store result score @s ArrowMember run scoreboard players get @p ArrowMem
 data merge entity @s {NoGravity:1b}
 data merge entity @s {Glowing:1b}
 # 初速計算
-function manipulate-arrow:calc-speed
+function manipulate-arrow:calc/calc-speed
 #team join
 team join Purple @s
 # Motion代入用armor_stand
