@@ -100,21 +100,3 @@ scoreboard objectives remove AiMath
 
 # 追記
 execute store result score @s ArrowSpeed run data get storage math: out 100
-scoreboard players set @s[scores={ArrowSpeed=20..37}] ArrowSpeed 1
-scoreboard players set @s[scores={ArrowSpeed=38..49}] ArrowSpeed 2
-scoreboard players set @s[scores={ArrowSpeed=50..61}] ArrowSpeed 3
-scoreboard players set @s[scores={ArrowSpeed=62..75}] ArrowSpeed 4
-scoreboard players set @s[scores={ArrowSpeed=76..88}] ArrowSpeed 5
-scoreboard players set @s[scores={ArrowSpeed=89..102}] ArrowSpeed 6
-scoreboard players set @s[scores={ArrowSpeed=103..116}] ArrowSpeed 7
-scoreboard players set @s[scores={ArrowSpeed=117..132}] ArrowSpeed 8
-scoreboard players set @s[scores={ArrowSpeed=133..146}] ArrowSpeed 9
-scoreboard players set @s[scores={ArrowSpeed=147..164}] ArrowSpeed 10
-scoreboard players set @s[scores={ArrowSpeed=165..178}] ArrowSpeed 11
-scoreboard players set @s[scores={ArrowSpeed=179..196}] ArrowSpeed 12
-scoreboard players set @s[scores={ArrowSpeed=197..215}] ArrowSpeed 13
-scoreboard players set @s[scores={ArrowSpeed=216..233}] ArrowSpeed 14
-scoreboard players set @s[scores={ArrowSpeed=234..250}] ArrowSpeed 15
-scoreboard players set @s[scores={ArrowSpeed=251..268}] ArrowSpeed 16
-scoreboard players set @s[scores={ArrowSpeed=269..288}] ArrowSpeed 17
-scoreboard players set @s[scores={ArrowSpeed=289..}] ArrowSpeed 18
