@@ -3,7 +3,7 @@
 execute as @e[type=arrow,tag=!Loaded] at @s run function manipulate-arrow:load-arrow
 
 # Motion代入
-function manipulate-arrow:main
+execute as @e[tag=ILoveArrowM] run function manipulate-arrow:calc-motion
 
 # Particle
 execute at @e[type=minecraft:arrow] run particle minecraft:dragon_breath ~ ~ ~ 0 0 0 0.02 1 force

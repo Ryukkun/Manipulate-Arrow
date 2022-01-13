@@ -1,1 +1,0 @@
-execute as @e[tag=ILoveArrowM] run function manipulate-arrow:calc-motion
