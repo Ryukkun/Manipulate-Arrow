@@ -1,6 +1,6 @@
 
 # 矢の最初だけの処理
-execute as @e[type=arrow,tag=!Loaded] run function manipulate-arrow:load-arrow
+execute as @e[type=arrow,tag=!Loaded] at @s run function manipulate-arrow:load-arrow
 
 # Motion代入
 function manipulate-arrow:main
