@@ -1,4 +1,4 @@
-# &nbsp;　Manipulate-Arrow / 操弾
+# &nbsp;　操弾 / Manipulate-Arrow
 自ら放った矢を自由自在に操作することができます。
 
 ## ◈ 対応バージョン
