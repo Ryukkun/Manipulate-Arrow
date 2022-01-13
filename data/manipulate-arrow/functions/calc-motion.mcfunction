@@ -14,4 +14,4 @@ scoreboard players operation @s ArrowPosY2 -= @s ArrowPosY
 scoreboard players operation @s ArrowPosZ2 -= @s ArrowPosZ
 scoreboard players set @s ArrowPosX 0
 execute store success score @s ArrowPosX at @e[type=arrow] if score @s ArrowMember = @e[type=arrow,distance=0,limit=1] ArrowMember if score @s ArrowSpeed = @e[type=arrow,limit=1,distance=0] ArrowSpeed run function manipulate-arrow:store-motion
-kill @s[scores={ArrowPosX=0},tag=!tss]
+kill @s[scores={ArrowPosX=0}]
