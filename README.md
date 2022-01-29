@@ -8,6 +8,10 @@
 フォルダーに入れて /reload などすれば、放った矢が操れるようになっていると思います。  
 無効化したければ /datapack コマンドから、データパックごと無効化しちゃってください。
 
+## ◈ ライセンス
+このレポジトリでは以下のライブラリを使用させていただいています。<br>
+　・[AiMath](https://github.com/Ai-Akaishi/AiMath) ([MIT License](https://opensource.org/licenses/MIT) / Copyright 2021 AiAkaishi)
+
 ## ◈ 一言
 オリジナルと少しスピード感が違うような気がしました。  
 どなたかオリジナルのベクトルご存じでしたら、教えて下さると幸いです。
