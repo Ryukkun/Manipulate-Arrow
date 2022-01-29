@@ -9,7 +9,7 @@
 無効化したければ /datapack コマンドから、データパックごと無効化しちゃってください。
 
 ## ◈ ライセンス
-このレポジトリでは以下のライブラリを使用させていただいています。<br>
+このレポジトリでは以下のライブラリを使用させていただいています。<br><br>
 　・[AiMath](https://github.com/Ai-Akaishi/AiMath) ([MIT License](https://opensource.org/licenses/MIT) / Copyright 2021 AiAkaishi)
 
 ## ◈ 一言
