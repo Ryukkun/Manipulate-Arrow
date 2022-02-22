@@ -1,6 +1,6 @@
 ### Copyright © 2021 赤石愛
-### This software is released under the MIT License.
-### https://opensource.org/licenses/MIT
+### This software is released under the MIT License, see LICENSE.
+### ...../Other-License/AiMath-LICENSE
 
 
 #> math:sqrt/
