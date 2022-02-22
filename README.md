@@ -10,7 +10,7 @@
 
 ## ◈ ライセンス
 このレポジトリでは以下のライブラリを使用させていただいています。<br><br>
-　・[AiMath](https://github.com/Ai-Akaishi/AiMath) &nbsp; ([MIT License](https://opensource.org/licenses/MIT) / Copyright 2021 AiAkaishi)<br><br>
+ - [AiMath](https://github.com/Ai-Akaishi/AiMath) &nbsp; ([MIT License](Other-License/AiMath-LiCENSE) / [赤石愛](https://twitter.com/AiAkaishi)氏 作)<br><br>
 
 ## ◈ 一言
 オリジナルと少しスピード感が違うような気がしました。<br>
